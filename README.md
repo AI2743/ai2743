@@ -84,7 +84,7 @@ __Hands on SQA & Cyber Security Course• September 2021 – Present__
 
 ### Bug reports in Jira
 
-- A sample bug report created using Jira. [Check here](https://drive.google.com/file/d/1VkSVS7mi4n-_RYX7FdbAipg3TAyKxzNj/view?usp=sharing)
+- A sample bug report created using Jira. [Check here](https://github.com/AI2743/Swapno/blob/a8139c4598c41a2ab6341516886f4949a05ef0f4/Bug%20Report%20sample_Jira.jpg)
 
 ### Mindmaps and diagrams
 * Functional decomposition of [shop.shajgoj.com](https://shop.shajgoj.com/). Check [the mindmap](https://drive.google.com/file/d/1_NdfKoxnjMW3asMZhZuY07TMwkA_-W2T/view?usp=sharing).
