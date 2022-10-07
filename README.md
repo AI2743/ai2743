@@ -27,7 +27,10 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Manual testing__
-  * can perform manual functional and usability testing of web applications
+  * requirement analysis
+  * test planning and design
+  * test case and test report writing
+  * root cause analysis and Bug reporting
   * gained hands-on experience by testing websites and web applications. 
 
 __Test analysis & design__
@@ -61,25 +64,13 @@ __Jira__
   * able to create projects and track their progress
 
 __Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
+  * know how to design simple and effective mind maps using mindmap tools like XMIND
 
 ## Courses
 
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*
-
-__The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
-
-__Onboarding to Testing · Jedi Point__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
+__Hands on SQA & Cyber Security Course• September 2021 – November2021__  
+•IT Training BD, a US based training organization
+Facebook Page
 
 
 ## Examples of my work
