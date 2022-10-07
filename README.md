@@ -68,23 +68,18 @@ __Mind maps & diagrams__
 
 ## Courses
 
-__Hands on SQA & Cyber Security Course• September 2021 – November2021__  
-•IT Training BD, a US based training organization
-Facebook Page
+__Hands on SQA & Cyber Security Course• September 2021 – Present__  
+• [IT Training BD](https://www.facebook.com/profile.php?id=100063510372506), a US based training organization
 
 
 ## Examples of my work
 
 ### Test cases and Reports
 
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
-
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
+- [Shajgoj,com](https://shop.shajgoj.com/my-account/)
+  * Test case for checking the SignUp and SignIn features. Check [the full Test case and report details here](https://docs.google.com/spreadsheets/d/1RrNJvO-KKWuqboN6zgKYV0RojZph_RHQ/edit?usp=sharing&ouid=117281558642680446801&rtpof=true&sd=true)
+- [Shawpno Online](https://www.shwapno.com/)
+  * Test case for checking the SignUp and SignIn features. Check [the full Test case and report details here](https://docs.google.com/spreadsheets/d/1GR6uQZ-D_WbaWoPUUY553IVD3mwRdzKw/edit?usp=sharing&ouid=117281558642680446801&rtpof=true&sd=true)
 
 
 ### Bug reports in Jira
