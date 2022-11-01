@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏻‍🎓 About Me:
 I am a positive-thinking and open minded person. I am organized, structured and attentive to detail. I also love to communicate with people and solve problems. <br><br>I got my Bachelor's Degree in CSE from Fareast International University in October, 2021.<br><br>Now, I wish to exploit my knowledge and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications.<br><br>I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.<br><br>You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/10b5lzsdPRS8HdU7EBF5Dbzza7_Paom9p/view?usp=sharing).
 
 
