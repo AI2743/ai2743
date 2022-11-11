@@ -47,7 +47,7 @@ __Mind maps & diagrams__
 
 ## Courses
 
-__Hands on SQA & Cyber Security Course• September 2021 – Present__  
+__Hands on SQA & Cyber Security Course• September 2022 – Present__  
 • [IT Training BD](https://www.facebook.com/profile.php?id=100063510372506), a US based training organization
 
 
